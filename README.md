@@ -27,7 +27,7 @@ A Java and Spring Boot portfolio application for analysing job offers, selecting
 ## Run locally
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/job-application-assistant.git
+git clone https://github.com/carlosmotosvillanueva/job-application-assistant.git
 cd job-application-assistant
 .\run.ps1
 ```
