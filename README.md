@@ -1,5 +1,7 @@
 # Job Application Assistant
 
+![Job Application Assistant project cover](assets/project-cover.png)
+
 A Java and Spring Boot portfolio application for analysing job offers, selecting the most suitable CV and generating a tailored cover letter in Spanish or English.
 
 ## Features
